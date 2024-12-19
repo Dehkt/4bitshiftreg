@@ -1,1 +1,1 @@
-# 4bitshiftreg
+# 4-Bit Shift Register
